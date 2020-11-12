@@ -15,6 +15,10 @@ html, body {
   flex-direction: column;
 }
 
+.github-corner {
+  z-index: 10000000000;
+}
+
 b, small {
   font-weight: 300;
   display: inline-block;
